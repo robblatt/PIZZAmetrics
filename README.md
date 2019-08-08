@@ -13,3 +13,12 @@ Index of the Best and Nearest Pizzerias in NYC
 ![presentation page 10](https://raw.githubusercontent.com/robblatt/PIZZAmetrics/master/images/presentation/presentation10.jpg)
 ![presentation page 11](https://raw.githubusercontent.com/robblatt/PIZZAmetrics/master/images/presentation/presentation11.jpg)
 ![presentation page 12](https://raw.githubusercontent.com/robblatt/PIZZAmetrics/master/images/presentation/presentation12.jpg)
+
+## The Law of Large Numbers with Yelp Reviews
+
+Using the Yelp reviews for Lombardi's with 5,920 reviews.
+
+In the case of Lombardi's, it converges within 0.03 stars of it's eventual mean rating after 4,386 reviews. Comparing the nubmer of reviews to date of reviews.
+![Lombardi's converging on the mean](https://raw.githubusercontent.com/robblatt/PIZZAmetrics/master/images/lombadis%20mean.png)
+![Lombardi's converging on the mean](https://raw.githubusercontent.com/robblatt/PIZZAmetrics/master/images/lombardis%20date%20of%20reviews.png)
+
