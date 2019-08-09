@@ -18,7 +18,7 @@ Index of the Best and Nearest Pizzerias in NYC
 
 Using the Yelp reviews for Lombardi's with 5,920 reviews.
 
-In the case of Lombardi's, it converges within 0.03 stars of it's eventual mean rating after 4,386 reviews. Comparing the nubmer of reviews to date of reviews.
-![Lombardi's converging on the mean](https://raw.githubusercontent.com/robblatt/PIZZAmetrics/master/images/lombadis%20mean.png)
-![Lombardi's converging on the mean](https://raw.githubusercontent.com/robblatt/PIZZAmetrics/master/images/lombardis%20date%20of%20reviews.png)
-
+In the case of Lombardi's, it converges within 0.03 stars of it's eventual mean rating after 4,386 reviews. Comparing the nubmer of reviews to date of reviews. Lombardi's is an unfortunate choice for this exploration due to a seeming downturn in quality in 2015 or else the reviews would have converged on a mean much earlier.
+![Lombardi's converging on the mean](https://raw.githubusercontent.com/robblatt/PIZZAmetrics/master/images/lombardis.png)
+![Di Fara's converging on the mean](https://raw.githubusercontent.com/robblatt/PIZZAmetrics/master/images/difaras.png)
+![L & B Spumoni Garden's converging on the mean](https://raw.githubusercontent.com/robblatt/PIZZAmetrics/master/images/spumonis.png)
