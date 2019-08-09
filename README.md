@@ -20,5 +20,9 @@ Using the Yelp reviews for Lombardi's with 5,920 reviews.
 
 In the case of Lombardi's, it converges within 0.03 stars of it's eventual mean rating after 4,386 reviews. Comparing the nubmer of reviews to date of reviews. Lombardi's is an unfortunate choice for this exploration due to a seeming downturn in quality in 2015 or else the reviews would have converged on a mean much earlier.
 ![Lombardi's converging on the mean](https://raw.githubusercontent.com/robblatt/PIZZAmetrics/master/images/lombardis.png)
+
+No matter the negative trend on the 1,000 review moving average on Di Fara's, Yelp's system only shows stars per half, so since a little after 2010 their rating hasn't changed.
 ![Di Fara's converging on the mean](https://raw.githubusercontent.com/robblatt/PIZZAmetrics/master/images/difaras.png)
+
+L&B's rating hasn't changed for over a decade, no matter the chart.
 ![L & B Spumoni Garden's converging on the mean](https://raw.githubusercontent.com/robblatt/PIZZAmetrics/master/images/spumonis.png)
