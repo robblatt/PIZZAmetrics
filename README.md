@@ -1,7 +1,7 @@
 # PIZZAmetrics
 Index of the Best and Nearest Pizzerias in NYC
 
-Blog Post: [Visualizing Yelp Reviews Over Time](https://medium.com/@robblatt/visualizing-yelp-reviews-over-time-90303ec1cf0d)
+Blog Post: [Thinking About and Visualizing Yelp Reviews Over Time](https://medium.com/@robblatt/thinking-about-yelp-reviews-over-time-48a36b5660a8?sk=6190625641349230e0b24cb3f78ad95e)
 
 ![presentation page 1](https://raw.githubusercontent.com/robblatt/PIZZAmetrics/master/images/presentation/presentation1.jpg)
 ![presentation page 2](https://raw.githubusercontent.com/robblatt/PIZZAmetrics/master/images/presentation/presentation2.jpg)
